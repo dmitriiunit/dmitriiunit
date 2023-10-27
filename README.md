@@ -1,0 +1,2 @@
+- 👀 My name is unit
+- 🌱 Currently studying machine learning
